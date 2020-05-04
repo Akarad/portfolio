@@ -1,8 +1,9 @@
 h1 {
-  font-family: serif;
-  font-weight: normal;
-  color: #BDB76B;
-  text-align: center;
+  font-family:sans-serif;
+  font-weight: bolder;
+  color: #926239;
+  text-align: left;
+  
 }
 
 h2 {
@@ -10,6 +11,27 @@ h2 {
   font-weight: bold;
 }
 
+h3 {
+  text-align: left;
+}
+
+img {
+  float: left;
+  margin: 10px;
+
+}
+
+.column {
+    float: inherit;
+    text-align: right;
+}
+
+.column ol {
+  background-color: lightgrey;
+  float: inherit;
+  text-align: center;
+}
+}
 body {
   margin: 0;
   font-family: Arial;
@@ -22,12 +44,13 @@ body {
   background-image: url("../images/landing.jpg");
   background-position: center;
   background-size: cover;
-  height: 300vh;
+  height: 110vh;
 }
 
 .rounded {
   width: 200px;
   margin: auto;
+  float: left;
 }
 
 .rounded img {
