@@ -1,0 +1,10 @@
+#showcase {
+  background-image: url("../images/contacts.webp");
+  background-position: center;
+  background-size: cover;
+  height: 120vh;
+}
+
+ul {
+  color: black;
+}
