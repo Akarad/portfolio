@@ -14,7 +14,7 @@ h1 {
 ul {
   color: black;
   text-align: center;
-  font-size: 25px;
+  font-size: 15px;
   background-color: inherit;
 
 }
@@ -35,4 +35,9 @@ p {
 .column {
   display: grid;
 
+}
+
+img {
+  width: 45px;
+  height: 45px;
 }

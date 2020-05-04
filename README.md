@@ -9,6 +9,8 @@ Good news! You do not need to run a server or install any dependencies in order 
 There are no known bugs so far.
 ## Technologies Used
 HTML and CSS are the main languages and tools that have been used on this site.
+## Demo
+Here is a working live demo : https://akarad.github.io/portfolio
 ## Support and contact details
 Want to contribute? Great!
 

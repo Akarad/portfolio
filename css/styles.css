@@ -63,3 +63,10 @@ body {
 .rounded img {
   border-radius: 50%;
 }
+ul {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+  background-color: inherit;
+
+}
