@@ -1,0 +1,35 @@
+h1 {
+  font-family: serif;
+  font-weight: normal;
+  color: #BDB76B;
+  text-align: center;
+}
+
+h2 {
+  color: #926239;
+  font-weight: bold;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+  font-size: 17px;
+  color: #926239;
+  line-height: 1.6;
+}
+
+#showcase {
+  background-image: url("../images/landing.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 300vh;
+}
+
+.rounded {
+  width: 200px;
+  margin: auto;
+}
+
+.rounded img {
+  border-radius: 50%;
+}
