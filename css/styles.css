@@ -3,8 +3,7 @@ h1 {
   font-weight: bolder;
   color: #926239;
   text-align: left;
-  
-}
+  }
 
 h2 {
   color: #926239;
@@ -13,25 +12,29 @@ h2 {
 
 h3 {
   text-align: left;
+  color: #926239;
 }
 
 img {
-  float: left;
+  float: right;
   margin: 10px;
+  text-align: justify;
 
+}
+
+.sidebar {
+  width: 30%;
+  height: 115%;
+  float: left;
+  background-color: #FAF0E6;
 }
 
 .column {
-    float: inherit;
-    text-align: right;
+  background-color: #D2B48C;
+  width: 45%;
+  height: 40%;
 }
 
-.column ol {
-  background-color: lightgrey;
-  float: inherit;
-  text-align: center;
-}
-}
 body {
   margin: 0;
   font-family: Arial;
@@ -44,7 +47,7 @@ body {
   background-image: url("../images/landing.jpg");
   background-position: center;
   background-size: cover;
-  height: 110vh;
+  height: 120vh;
 }
 
 .rounded {
