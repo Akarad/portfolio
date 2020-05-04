@@ -1,3 +1,9 @@
+h1 {
+  font-family:sans-serif;
+  font-weight: bolder;
+  color: #926239;
+  text-align: center;
+}
 #showcase {
   background-image: url("../images/contacts.webp");
   background-position: center;
@@ -7,4 +13,26 @@
 
 ul {
   color: black;
+  text-align: center;
+  font-size: 25px;
+  background-color: inherit;
+
+}
+
+.availability {
+  color: #CD5C5C;
+}
+
+p {
+  color: #808000;
+  font-size: 20px;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.column {
+  display: grid;
+
 }
