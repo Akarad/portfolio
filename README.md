@@ -1,5 +1,5 @@
 # portfolio
-This is a portfolio for web developer Diana Akara.
+This is a portfolio for upcoming developer.
 #### By **Diana Akara**
 ## Description
 This website provides a portfolio of travel destinations for those that love travel.
